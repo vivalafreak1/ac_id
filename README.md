@@ -1,2 +1,2 @@
 # ac_id
-WALAUPUN LIHAT TOLONG LAH VARIABEL NYA GANTI KAWAN
+setidak nya ubah variabel ya kawan untuk MATEUS DAVIN
