@@ -1,9 +1,9 @@
 # ac_id
 setidak nya ubah variabel ya kawan untuk special guest pengoper handal MATEUS DAVIN
 
-==========WARNING=============
-Jangan langsung copy ya, coba pahamin dulu tugas nya, kalau emang surrend,
-coba pahamin kodingannay trus coba coding atau mulai pahamin logika contohya
+==========WARNING=============\n
+Jangan langsung copy ya, coba pahamin dulu tugas nya, kalau emang surrend, coba pahamin 
+kodingannya trus coba coding atau mulai pahamin logika contohya
 
 MENYONTEK TIDAK DIBENARKAN !! - Mateus davin
 
